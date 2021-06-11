@@ -1,0 +1,61 @@
+/*+++++++++ TAG SELECTORS +++++++++++*/
+a {
+  color: #decdc3;
+}
+
+body {
+  background-color: #1d2323;
+}
+
+h1 {
+  color: #5c848e;
+}
+
+h3 {
+  color: #5c848e;
+}
+
+h6 {
+  color: grey;
+}
+
+hr {
+  border-style: solid none none none;
+  border-color: #decdc3;
+}
+
+input {
+  background-color: #c7cfb7;
+}
+
+img {
+  width: 150px;
+  height: 100px;
+}
+
+label {
+  color: #decdc3;
+}
+
+p {
+  color: grey;
+}
+
+textarea {
+  background-color: #c7cfb7;
+}
+
+ul {
+  color: #decdc3;
+}
+
+/*+++++++++ CLASS SELECTORS +++++++++++*/
+.linktohomepage{
+  color:#5c848e;
+  text-decoration: none;
+}
+.linktohomepage:hover{
+    color: grey;
+}
+
+/*+++++++++ ID SELECTORS +++++++++++*/
