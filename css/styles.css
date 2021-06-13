@@ -34,6 +34,7 @@ label {
 
 p {
   color: grey;
+  text-align: justify;
 }
 
 textarea {
@@ -51,7 +52,7 @@ ul {
 
 .indexpics{
   width: 150px;
-  height: 100px; 
+  height: 100px;
 }
 
 .linktohomepage{
