@@ -28,11 +28,6 @@ input {
   background-color: #c7cfb7;
 }
 
-img {
-  width: 150px;
-  height: 100px;
-}
-
 label {
   color: #decdc3;
 }
@@ -52,6 +47,11 @@ ul {
 /*+++++++++ CLASS SELECTORS +++++++++++*/
 .donations{
   background-color: #1d2323;
+}
+
+.indexpics{
+  width: 150px;
+  height: 100px; 
 }
 
 .linktohomepage{
